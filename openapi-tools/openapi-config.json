@@ -1,0 +1,4 @@
+{
+    "disallowAdditionalPropertiesIfNotPresent": false,
+    "discriminatorCaseSensitive": true
+}
